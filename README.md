@@ -1,4 +1,15 @@
-# 👋 Xin chào, tôi là Nguyễn Xuân Minh!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/minhciss/minhciss/main/avatar.jpg"
+       alt="Nguyễn Xuân Minh"
+       width="150"
+       height="150"
+       style="border-radius: 50%; object-fit: cover; border: 3px solid #22D3EE;" />
+
+  <h2>👋 Xin chào, tôi là Nguyễn Xuân Minh!</h2>
+  <p><em>🎓 Đại học Sài Gòn &nbsp;|&nbsp; 💻 Developer &nbsp;|&nbsp; 🇻🇳 TP. Hồ Chí Minh</em></p>
+</div>
+
+<br/>
 
 <!-- Animated Terminal Banner (Auto-swaps on Dark/Light mode) -->
 <div align="center">
