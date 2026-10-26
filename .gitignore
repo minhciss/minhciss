@@ -1,0 +1,11 @@
+*.png
+*.bmp
+*.log
+dither_*
+person_*
+final_*
+test_*
+gen_*
+prepare*
+sample*
+node_modules/
