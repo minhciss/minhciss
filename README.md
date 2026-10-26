@@ -1,9 +1,9 @@
 <!-- Animated Terminal Banner (Auto-swaps on Dark/Light mode) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhciss/minhciss/main/dark.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhciss/minhciss/main/light.svg?v=3" />
-    <img alt="Nguyễn Xuân Minh - Terminal Profile" src="https://raw.githubusercontent.com/minhciss/minhciss/main/dark.svg?v=3" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhciss/minhciss/main/dark.svg?v=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhciss/minhciss/main/light.svg?v=4" />
+    <img alt="Nguyễn Xuân Minh - Terminal Profile" src="https://raw.githubusercontent.com/minhciss/minhciss/main/dark.svg?v=4" width="100%" />
   </picture>
 </div>
 
